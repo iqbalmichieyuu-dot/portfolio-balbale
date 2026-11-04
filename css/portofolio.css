@@ -1,0 +1,62 @@
+/* css eksternal */
+/* p {
+    font-size: 50px;
+} */
+
+section {
+    min-height: 100vh;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kotakHitam {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    width: 300px;
+    height: 300px;
+    background-color: black;
+}
+
+.kotakMerah {
+    width: 30px;
+    height: 50px;
+    background-color: red;
+}
+
+.kotakKuning {
+    width: 50px;
+    height: 80px;
+    background-color: yellow;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+#kotakHitam{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 500px; 
+    height: 500px;
+    background-color: black;
+}
+
+#kotakMerah{
+    width: 70px;
+    height: 70px;
+    background-color: red;
+}
+
+#kotakKuning{
+    width: 70px;
+    height: 100px;
+    background-color: yellow;
+}
